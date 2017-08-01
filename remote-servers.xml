@@ -1,0 +1,14 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Native Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Ubuntu Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://emor-u16:2376" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

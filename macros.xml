@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="1">
+      <action id="ReplaceInPath" />
+      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;48:1">console.log)</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="57:1;56:1;48:1">(*)</typing>
+      <shortuct text="TAB" />
+      <action id="$SelectAll" />
+      <shortuct text="DELETE" />
+      <shortuct text="alt S" />
+      <shortuct text="ENTER" />
+      <shortuct text="alt F" />
+      <action id="$Undo" />
+    </macro>
+  </component>
+</application>

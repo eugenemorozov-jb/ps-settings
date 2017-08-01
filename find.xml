@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.mxml</mask>
+      <mask>*.html</mask>
+      <mask>*.p</mask>
+      <mask>*.phpdf</mask>
+      <mask>*.phpd</mask>
+      <mask>*.php</mask>
+      <mask>vas</mask>
+      <mask>vaa</mask>
+      <mask>va</mask>
+      <mask>v</mask>
+      <mask>*test</mask>
+      <mask>*tes</mask>
+      <mask>*te</mask>
+      <mask>*t</mask>
+      <mask>tes</mask>
+      <mask>t</mask>
+      <mask>a</mask>
+      <mask>teymo</mask>
+      <mask>teym</mask>
+      <mask>tey</mask>
+      <mask>te</mask>
+      <mask>test</mask>
+      <mask>test*</mask>
+      <mask>*/</mask>
+      <mask>*.</mask>
+      <mask>*.n</mask>
+      <mask>*.nya</mask>
+      <mask>*.nyaa</mask>
+      <mask>*.nyaaa</mask>
+      <mask>*</mask>
+    </recentFileMasks>
+  </component>
+</application>
