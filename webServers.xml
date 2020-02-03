@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba723bd7-62dc-4661-8b8e-a9626ee8b4ce" name="em-ubuntu/apache-root" url="http://em-ubuntu">
+        <fileTransfer host="em-ubuntu" port="22" rootFolder="/var/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c9752ef4-b554-48ef-9b92-1fdea188b707" name="em-macos/web-root" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

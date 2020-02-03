@@ -1,0 +1,25 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+        <executablePath>composer</executablePath>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="em-macos/php7.1" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
+      </component>
+      <component name="PublishConfigData" autoUpload="On explicit save action" deleteMissingItems="true" createEmptyFolders="true" traceLevel="DETAILS">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
