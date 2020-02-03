@@ -1,8 +1,0 @@
-<templateSet group="PHP">
-  <template name="$" value="$this-&gt;$COMPLETE$" description="$this-&gt;" toReformat="false" toShortenFQNames="true">
-    <variable name="COMPLETE" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
