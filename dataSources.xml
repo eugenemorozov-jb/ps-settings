@@ -1,0 +1,13 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="localhost/mysql" uuid="fc3fa9dd-dacc-428b-8c6e-52ca13ef22dd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="CET" />
+      </driver-properties>
+    </data-source>
+  </component>
+</application>
