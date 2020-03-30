@@ -3,6 +3,7 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_FAMILY" value=".SF NS Mono" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
