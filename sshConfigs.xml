@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="f33d1741-80bc-4a22-b04b-5d465d7a87bc" port="22" username="eugene" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="6f20921a-e79b-43ff-8fee-022a3e9704a0" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
