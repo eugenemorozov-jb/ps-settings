@@ -7,6 +7,8 @@
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="13d40a56-600d-4c6a-8d97-43c6f0f8957e" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="a99613d0-bc95-479e-afee-c687d2e5041d" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="7f0ec267-8849-485d-8dc6-84f26210e331" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="7fcc332e-b8ba-4660-a306-ae580b336087" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="6554a8a1-f980-4a80-8874-9921ac2f064d" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
