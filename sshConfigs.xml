@@ -2,6 +2,15 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="f33d1741-80bc-4a22-b04b-5d465d7a87bc" port="22" username="eugene" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="6f20921a-e79b-43ff-8fee-022a3e9704a0" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="78373426-88e0-4a7a-91cc-8e419919d51f" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="13d40a56-600d-4c6a-8d97-43c6f0f8957e" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="a99613d0-bc95-479e-afee-c687d2e5041d" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="7f0ec267-8849-485d-8dc6-84f26210e331" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="7fcc332e-b8ba-4660-a306-ae580b336087" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="6554a8a1-f980-4a80-8874-9921ac2f064d" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="87d7e303-c2cc-4e0a-95b4-0d3a779d2d45" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="952b4336-6b53-4a63-8ca8-35bad37bbda6" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
