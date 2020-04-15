@@ -3,7 +3,19 @@
     <property name="created">2019-04-02T12:57:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-02T12:57:15</property>
+    <property name="modified">2020-04-15T20:25:55</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f6ebbc" />
+        <option name="EFFECT_COLOR" value="ff6fb0" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
