@@ -14,6 +14,7 @@
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="c5f8539d-3ce3-4a54-9c3d-90d4aaa7628a" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="1abeef61-7ec0-4e0e-afbf-4fa76bb72ac1" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="em-ubuntu" id="91a880fe-6d1e-40c6-af3b-b35b284b37f1" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="em-ubuntu" id="485f011a-076d-479e-a393-2aa2eab043bd" port="22" customName="em-ubuntu/apache-root" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
